@@ -1,0 +1,17 @@
+
+
+    {"empleat": [
+        {"nom": "Josep",
+        "cognom": "Martin",
+        "direccio": "Carre de la Rambla, 22, 3r, primera",
+        "ciutat": "Barcelona",
+        "email": "JoperM@gmail.com",
+        "telefon": "677276781"},
+        {"nom": "Marcos",
+        "cognom": "Delasierra Gomez",
+        "direccio": "Carre de la Rambla, 102, 2n, tercera",
+        "ciutat": "Barcelona",
+        "email": "MDelaGomez@gmail.com",
+        "telefon": "657823943"}
+    ]}
+    

@@ -4,6 +4,16 @@
         <nom>Josep</nom>
         <cognom>Martin Delgado</cognom>
         <direccio>Carre de la Rambla, 22, 3r, primera</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>JoperM@gmail.com</email>
         <telefon>677276781</telefon>
+    </empleat>
+    <empleat>
+        <nom>Marcos</nom>
+        <cognom>Delasierra Gomez</cognom>
+        <direccio>Carre de la Rambla, 102, 2n, tercera</direccio>
+        <ciutat>Barcelona</ciutat>
+        <email>MDelaGomez@gmail.com</email>
+        <telefon>657823943</telefon>
     </empleat>
 </empleats>    
